@@ -28,12 +28,13 @@ Farmers can sell their agro products directly through the platform.
 Installation Requirements
 To run the project, ensure you have the following dependencies installed:
 
-pip install flask
-pip install Flask-SQLAlchemy
-pip install mysqlclient
-pip install Flask-Login
+-pip install flask
+-pip install Flask-SQLAlchemy
+-pip install mysqlclient
+-pip install Flask-Login
+
 How to Use
-Clone the repository.
-Install the required modules as listed above.
-Configure the database settings in the project.
-Run the application and access it through your web browser.
+-Clone the repository.
+-Install the required modules as listed above.
+-Configure the database settings in the project.
+-Run the application and access it through your web browser.
